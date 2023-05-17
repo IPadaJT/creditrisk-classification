@@ -21,3 +21,4 @@
 
 # Evaluate 
 - ![Screenshot 2023-05-16 205531](https://github.com/IPadaJT/creditrisk-classification/assets/117694350/5ec1b1e1-a6b1-40f4-816d-20f2bacd22b6)
+- ![Screenshot 2023-05-16 210641](https://github.com/IPadaJT/creditrisk-classification/assets/117694350/699e3440-d96e-4584-8fb5-ea63f17ec8fc)
